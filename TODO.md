@@ -1,5 +1,6 @@
 # TODO
 
+
 * Document that `encodings` must be given from lowest to highest layer (index 0 must be the lowest layer).
   - This is this way even if later, in Firefox, we reverse the array.
 
